@@ -93,7 +93,8 @@ add this to the 50-server.cnf file
     
     [server]
     user = mysql
-    pid-file = /run/mysqld/mysqld.pid
+    # pid-file = /run/mysqld/mysqld.pid
+    # commented this out because of an error
     socket = /run/mysqld/mysqld.sock
     basedir = /usr
     datadir = /var/lib/mysql
