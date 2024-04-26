@@ -153,7 +153,12 @@ Now press (Ctrl-X) to exit
     
     cd frappe-bench/
     bench start
-    
+
+## STEP 14 Open a new Terminal Window & Follow the guide froom the Frappe Documentation
+https://frappeframework.com/docs/user/en/tutorial/create-an-app
+https://frappeframework.com/docs/user/en/tutorial/create-a-site
+
+<!--
 ### STEP 14 create a site in frappe bench 
     
     bench new-site dcode.com
@@ -172,6 +177,8 @@ Now press (Ctrl-X) to exit
     bench --site dcode.com install-app erpnext
     
     bench start
+
+    -->
     
 ### Step 16 setup production
     
